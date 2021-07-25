@@ -6,6 +6,13 @@ Saya seorang **Software Developer 5** di [Indomarco Prismatama](https://indomare
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/hendraditodwia/)ku ya.
 
+<p align="left">
+<a href="https://github.com/hendraditoda">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hendraditoda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hendraditoda&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **hendraditoda/hendraditoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
