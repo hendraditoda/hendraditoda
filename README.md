@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Hendradito Dwi Aprillian**.
 
-Saya seorang **Software Developer 5** di [Indomarco Prismatama](https://indomaret.co.id/).
+Perkejaan terkahir saya seorang **Full-stack  Developer 5** di [PT. Adira Finance]().
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/hendraditodwia/)ku ya.
 
