@@ -2,7 +2,9 @@
 
 Perkenalkan nama saya **Hendradito Dwi Aprillian**.
 
-Perkejaan terkahir saya seorang **Full-stack  Developer** di [PT. Adira Finance]().
+Pekerjaan terakhir saya seorang **Full-stack  Developer** di [PT. Adira Finance]().
+
+Saya terbuka untuk pekerjaan fulltime Frontend Developer React.js / Fullstack Developer Javascript
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/hendraditodwia/)ku ya.
 
